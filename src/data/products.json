@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "necklaces",
+      "name": "Necklaces",
+      "description": "Traditional Zulu beaded necklaces in vibrant colors"
+    },
+    {
+      "id": "bracelets", 
+      "name": "Bracelets",
+      "description": "Handcrafted beaded bracelets and bangles"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories", 
+      "description": "Earrings, headbands, and decorative items"
+    },
+    {
+      "id": "ceremonial",
+      "name": "Ceremonial",
+      "description": "Traditional ceremonial beadwork and regalia"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Royal Zulu Collar Necklace",
+      "description": "Stunning multi-strand collar necklace featuring traditional Zulu patterns in vibrant red, gold, and blue beads. Handcrafted by skilled artisans.",
+      "price": 89.99,
+      "category": "necklaces",
+      "image": "/src/assets/necklace-1.jpg",
+      "featured": true,
+      "colors": ["red", "gold", "blue"],
+      "inStock": true
+    },
+    {
+      "id": "2", 
+      "name": "Heritage Bead Bracelet Set",
+      "description": "Set of three matching bracelets with geometric Zulu patterns. Perfect for special occasions or everyday wear.",
+      "price": 45.99,
+      "category": "bracelets",
+      "image": "/src/assets/bracelet-1.jpg",
+      "featured": true,
+      "colors": ["orange", "black", "white"],
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "Warrior Princess Crown",
+      "description": "Elaborate beaded headpiece inspired by traditional Zulu royal regalia. Features intricate patterns and premium materials.",
+      "price": 159.99,
+      "category": "ceremonial",
+      "image": "/src/assets/crown-1.jpg",
+      "featured": true,
+      "colors": ["gold", "red", "green"],
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Sunset Dreams Earrings",
+      "description": "Elegant drop earrings with cascading beads in warm sunset colors. Lightweight and comfortable for all-day wear.",
+      "price": 32.99,
+      "category": "accessories",
+      "image": "/src/assets/earrings-1.jpg",
+      "featured": false,
+      "colors": ["orange", "yellow", "red"],
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "name": "Traditional Medicine Necklace",
+      "description": "Sacred beaded necklace with traditional healing symbols. Each piece tells a story of ancient wisdom.",
+      "price": 125.99,
+      "category": "necklaces",
+      "image": "/src/assets/necklace-2.jpg",
+      "featured": false,
+      "colors": ["green", "brown", "white"],
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Rainbow Pride Choker",
+      "description": "Vibrant multi-colored choker necklace representing unity and celebration.",
+      "price": 67.99,
+      "category": "necklaces",
+      "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=800&h=800&fit=crop",
+      "featured": false,
+      "colors": ["red", "orange", "blue"],
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "Warrior's Honor Bracelet",
+      "description": "Bold geometric bracelet inspired by Zulu warrior traditions.",
+      "price": 58.99,
+      "category": "bracelets",
+      "image": "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=800&h=800&fit=crop",
+      "featured": false,
+      "colors": ["black", "red", "gold"],
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "Celestial Moon Earrings",
+      "description": "Elegant crescent moon earrings with dangling beads in silver and blue.",
+      "price": 41.99,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=800&h=800&fit=crop",
+      "featured": false,
+      "colors": ["blue", "white", "gold"],
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "Royal Crown Headpiece",
+      "description": "Magnificent ceremonial crown with intricate beadwork and gold accents.",
+      "price": 299.99,
+      "category": "ceremonial",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=800&h=800&fit=crop",
+      "featured": false,
+      "colors": ["gold", "red", "blue"],
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "name": "Desert Sunset Anklet",
+      "description": "Delicate anklet with warm earth tones reminiscent of African sunsets.",
+      "price": 34.99,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?w=800&h=800&fit=crop",
+      "featured": false,
+      "colors": ["orange", "brown", "gold"],
+      "inStock": true
+    }
+  ]
+}
